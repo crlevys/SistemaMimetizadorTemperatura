@@ -6,18 +6,12 @@ introducirse desde el teclado (mediante un objeto JTextField). Debe usarse un
 objeto JLabel para mostrar la temperatura convertida.
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-##Compilar el programa:
+## Compilar el programa:
 
 `$ javac SistemaMimetizadorTemperatura.java`
 
 
-##Ejecutar el programa:
+## Ejecutar el programa:
 
 `$ java SistemaMimetizadorTemperatura`
 
