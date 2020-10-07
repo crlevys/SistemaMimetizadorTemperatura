@@ -13,7 +13,8 @@ public class Conversion {
         return String.valueOf(valor);
     }
     
-    String celsius(){
-        return String.valueOf(5.0F/9.0F*(valor - 32.0F));
+    String aCelsius(){
+        float x = (5.0F/9.0F)*(valor-32.0F);
+        return String.valueOf(x + " ·C");
     }
 }
